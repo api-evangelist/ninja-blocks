@@ -1,0 +1,62 @@
+{
+    "name": "Ninja Blocks",
+    "description": "Give your home a mind of its own.",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1450-ninja-blocks.jpg",
+    "tags": [
+        "api provider",
+        "devices",
+        "have api",
+        "internet of things"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/ninja-blocks\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "Ninja Blocks",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/screen-capture-api\/1450-ninja-blocks.jpg",
+            "humanURL": "http:\/\/ninjablocks.com\/docs\/",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/ninja-blocks-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Website",
+            "url": "http:\/\/ninjablocks.com\/docs\/"
+        },
+        {
+            "type": "Blog",
+            "url": "http:\/\/ninjablocks.com\/blog"
+        },
+        {
+            "type": "Blog RSS",
+            "url": "http:\/\/ninjablocks.com\/blogs\/news.atom"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "http:\/\/www.crunchbase.com\/company\/ninja-blocks"
+        },
+        {
+            "type": "Crunchbase",
+            "url": "https:\/\/crunchbase.com\/organization\/ninja-blocks"
+        },
+        {
+            "type": "Github",
+            "url": "https:\/\/github.com\/ninjablocks"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/ninjablocks"
+        }
+    ]
+}
